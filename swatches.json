@@ -12,18 +12,19 @@
 			"textstring3": "Black"
 		},
 		
-		"InlandPLA+Silver-2-205": {
+		"Inland_PLAP_Silver_2mm_205c": {
 			"textstring1": "Inland PLA+",
-			"textstring2": "0.2  205C",
-			"textstring3": "Silver"
+			"textstring2": "0.2mm  205C",
+			"textstring3": "Silver",
+			"texttop_configurable": "P L A +"
 		},
 		
-		"InlandPLA+Silver-2-225": {
+		"Inland_PLAP_Silver_2mm_225c": {
 			"textstring1": "Inland PLA+",
-			"textstring2": "0.2  225C",
-			"textstring3": "Silver"
-		},
-		
+			"textstring2": "0.2mm  225C",
+			"textstring3": "Silver",
+			"texttop_configurable": "P L A +"
+		}
 	},
 
 	"fileFormatVersion": "1"
