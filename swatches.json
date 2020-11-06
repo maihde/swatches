@@ -1,0 +1,17 @@
+{
+	"parameterSets": {
+		"Ttyt3dMulticolorFastChange": {
+			"textstring1": "TTYT3D PLA",
+			"textstring2": "0.2  215C",
+			"textstring3": "Multicolor"
+		},
+
+		"SnapmakerBlack": {
+			"textstring1": "Snapmaker",
+			"textstring2": "0.2  195C",
+			"textstring3": "Black"
+		}
+	},
+
+	"fileFormatVersion": "1"
+}
