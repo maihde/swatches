@@ -10,7 +10,20 @@
 			"textstring1": "Snapmaker",
 			"textstring2": "0.2  195C",
 			"textstring3": "Black"
-		}
+		},
+		
+		"InlandPLA+Silver-2-205": {
+			"textstring1": "Inland PLA+",
+			"textstring2": "0.2  205C",
+			"textstring3": "Silver"
+		},
+		
+		"InlandPLA+Silver-2-225": {
+			"textstring1": "Inland PLA+",
+			"textstring2": "0.2  225C",
+			"textstring3": "Silver"
+		},
+		
 	},
 
 	"fileFormatVersion": "1"
