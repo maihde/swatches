@@ -26,14 +26,14 @@
 			"texttop_configurable": "P L A +"
 		},
 		"Inland_PLAP_White_2mm_195c": {
-			"textstring1": "Inland PLA+",
+			"textstring1": "Inland PLA",
 			"textstring2": "0.2mm  195C",
 			"textstring3": "White",
 			"texttop_configurable": "P L A"
 		},
 		
 		"Inland_PLAP_White_2mm_215c": {
-			"textstring1": "Inland PLA+",
+			"textstring1": "Inland PLA",
 			"textstring2": "0.2mm  215C",
 			"textstring3": "White",
 			"texttop_configurable": "P L A"
