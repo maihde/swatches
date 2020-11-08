@@ -1,12 +1,12 @@
 {
 	"parameterSets": {
-		"Ttyt3dMulticolorFastChange": {
+		"Ttyt3d_PLA_MulticolorFastChange_2mm_215C": {
 			"textstring1": "TTYT3D PLA",
 			"textstring2": "0.2  215C",
 			"textstring3": "Multicolor"
 		},
 
-		"SnapmakerBlack": {
+		"Snapmaker_PLA_Black_2mm_195C": {
 			"textstring1": "Snapmaker",
 			"textstring2": "0.2  195C",
 			"textstring3": "Black"
@@ -25,6 +25,7 @@
 			"textstring3": "Silver",
 			"texttop_configurable": "P L A +"
 		},
+
 		"Inland_PLA_White_2mm_195c": {
 			"textstring1": "Inland PLA",
 			"textstring2": "0.2mm  195C",
@@ -44,6 +45,12 @@
 			"textstring2": "0.2mm  215C",
 			"textstring3": "Red",
 			"texttop_configurable": "P L A +"
+
+		"Inland_PETG_2mm_235c": {
+			"textstring1": "Inland PETG",
+			"textstring2": "0.2mm  235C",
+			"textstring3": "Clear",
+			"texttop_configurable": "P E T G"
 		}
 	},
 
