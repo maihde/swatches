@@ -46,6 +46,20 @@
 			"textstring3": "Dark Yel.",
 			"texttop_configurable": "P L A"
 		},
+		
+		"Inland_PLA_SilkLightBlue_2mm_215": {
+			"textstring1": "Inland PLA",
+			"textstring2": "0.2mm  215C",
+			"textstring3": "Silk Light Blue",
+			"texttop_configurable": "P L A"
+		},
+		
+		"Inland_PLA_Black_2mm_215": {
+			"textstring1": "Inland PLA",
+			"textstring2": "0.2mm  215C",
+			"textstring3": "Black",
+			"texttop_configurable": "P L A"
+		},
 
 		"Inland_PLAP_Red_2mm_215c": {
 			"textstring1": "Inland PLA+",
