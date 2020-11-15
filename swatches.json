@@ -61,11 +61,25 @@
 			"texttop_configurable": "P L A +"
 		},
 
-		"Inland_PETG_2mm_235c": {
+		"Inland_PETG_Clear_2mm_235c": {
 			"textstring1": "Inland PETG",
 			"textstring2": "0.2mm  235C",
 			"textstring3": "Clear",
 			"texttop_configurable": "P E T G"
+		},
+
+		"Inland_PETG_Black_2mm_235c": {
+			"textstring1": "Inland PETG",
+			"textstring2": "0.2mm  235C",
+			"textstring3": "Black",
+			"texttop_configurable": "P E T G"
+		},
+
+		"Overture_Orange_TPU_2mm_225c": {
+			"textstring1": "Overture TPU",
+			"textstring2": "0.2mm  225C",
+			"textstring3": "Orange",
+			"texttop_configurable": "T P U"
 		}
 	},
 
